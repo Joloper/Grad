@@ -2,14 +2,14 @@
 
 using namespace std;
 
-/* JOLOPER INC. All rights reserved
+/* JOLOPER.
    Grad is a C/C++ Library
    Make sure everything is correct
    If you mess up something, the Grad Code might give errors
    Use Grad correctly
    Made By: AxilJ
 
-   Grad TM
+   Grad
 */
 
 // INCLUDES
