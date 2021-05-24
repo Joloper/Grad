@@ -39,3 +39,5 @@ float GD_FLOAT = 10.5f;
 char GD_CHAR = 'G';
 double GD_DOUBLE = 10.4;
 string GD_STRING = "Hello Grad!";
+long GD_LONG = 4;
+short GD_SHORT = 0;
