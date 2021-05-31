@@ -16,6 +16,9 @@ using namespace std;
 // INCLUDES
 #include "Grad.h"
 #include <iostream>
+#include <string>
+#include <algorithm>
+#include <functional>
 
 /*
    Grad
