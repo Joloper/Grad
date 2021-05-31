@@ -30,12 +30,15 @@ using namespace std;
 */
 
 // DEFINES
-#define gradWindow
-#define gradSearch
-#define GD_REPEAT
-#define GD_WINDOW
-#define GD_Clear
-#define gradColorClear
+#define gradWindow (nullptr)
+#define gradSearch (true)
+#define GD_REPEAT (NULL, NULL)
+#define GD_WINDOW (nullptr, NULL)
+#define GD_Clear (false, NULL)
+#define gradColorClear (true, NULL)
+#define gradEnd (NULL, nullptr)
+#define gradBegin (NULL, NULL, true, nullptr)
+#define GD_LOOP (NULL)
 
 // VARS
 int GD_INT = 10;
@@ -45,4 +48,4 @@ double GD_DOUBLE = 10.4;
 string GD_STRING = "Hello Grad!";
 long GD_LONG = 4;
 short GD_SHORT = 0;
-string gradVersion = "1.1.7";
+string gradVersion = "1.2.0";
