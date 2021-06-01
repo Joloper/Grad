@@ -12,3 +12,7 @@ int main()
 }
 
 Now run the code and enjoy!
+# About
+Founder: AxilJ
+Release Date: 24th May, 2021
+E-mail: grad@gmail.com / grad@outlook.com.
