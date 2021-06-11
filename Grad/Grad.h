@@ -29,6 +29,14 @@ using namespace std;
    GLEW
 */
 
+// IF AND ENDIF
+
+#if 0
+#define return false
+#elif return true
+gradWindow nullptr
+#endif
+   
 // DEFINES
 #define gradWindow (nullptr)
 #define gradSearch (true)
@@ -39,6 +47,8 @@ using namespace std;
 #define gradEnd (NULL, nullptr)
 #define gradBegin (NULL, NULL, true, nullptr)
 #define GD_LOOP (NULL)
+#define GD_FALSE NULL (false)
+#define GD_TRUE nullptr (true)
 
 // VARS
 int GD_INT = 10;
